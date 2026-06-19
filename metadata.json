@@ -1,0 +1,6 @@
+{
+  "name": "Avast Gráfica",
+  "description": "Portaal de impressão e pagamentos com integração simulada M-Pesa / E-Mola e impressão automática em impressora térmica USB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
